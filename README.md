@@ -129,5 +129,4 @@ _(You may need to adjust options to include additional resources such as README.
 ## 📜 License
 
 Released under the **MIT License** – free to use, modify, and adapt.  
-Attribution is appreciated but not required.  
-
+Attribution to Farzad NIKFAM is appreciated! 😄
