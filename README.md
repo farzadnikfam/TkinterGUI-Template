@@ -77,5 +77,5 @@ you can keep it as-is to test generic workflows, or replace the calculation engi
 Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/TkinterGUI-Template.git
+git clone https://github.com/farzadnikfam/TkinterGUI-Template.git
 cd TkinterGUI-Template
