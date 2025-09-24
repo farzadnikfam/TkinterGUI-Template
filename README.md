@@ -14,8 +14,7 @@ This application provides a graphical interface to:
 - Validate, clean, and correct input values automatically.
 - Use tooltips, scrollable tables, and embedded documentation.
 
-It is designed as a **template**:  
-you can keep it as-is to test generic workflows, or replace the calculation engine with your own logic or model.
+It is designed as a **template**: you can keep it as-is to test generic workflows, or replace the calculation engine with your own logic or model.
 
 ---
 
