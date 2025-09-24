@@ -118,7 +118,7 @@ _(You may need to adjust options to include additional resources such as README.
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 <p align="center">
   <img src="docs/gui_app_screen.png" alt="GUI Screenshot" width="600"/>
